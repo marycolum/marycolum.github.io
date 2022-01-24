@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: &#8220;Writers and Human Rights&#8221;	</title>
+	<atom:link href="/articles/writers-and-human-rights/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Mary Colum</description>
+	<lastBuildDate>Thu, 18 Jun 2015 13:32:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+</channel>
+</rss>
